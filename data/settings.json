@@ -1,0 +1,15 @@
+{
+  "phone": "918956922916",
+  "address": "Shop 12, Omega Commercial Complex, Wakad, Pune 411057",
+  "tableFee": 49,
+  "studioRate": 1999,
+  "studioAdvance": 199,
+  "partyDelivery": 500,
+  "freeDeliveryAbove": 999,
+  "lunchHours": [12, 13, 14],
+  "dinnerHours": [18, 19, 20, 21, 22],
+  "flameHours": { "15": 50, "18": 30, "22": 50 },
+  "studioShifts": ["6–8 AM", "8–10 AM"],
+  "closedDays": [],
+  "offerBanner": "Up to 50% off on selected hours — watch for the flame badge while booking."
+}
